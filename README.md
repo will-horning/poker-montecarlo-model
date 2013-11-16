@@ -1,0 +1,2 @@
+Calculate the expected value of a bet in Texas holdem poker at any point in play using a Monte Carlo model. Usage: python main.py player_card1 player_card2 number_of_opponents [board_card1]  [board_card2] [board_card3] [board_card4] [board_card5] pot_value minimum_bet
+All card parameters should be represented as the rank [0-12] and a single character representing the suit (c,d,h,s). E.g. "10s" is a ten of spades. 
